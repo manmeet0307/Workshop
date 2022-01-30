@@ -57,11 +57,3 @@ The following resources can help you better understand the concepts, elements, a
   - [`GeolocationPosition` interface](https://developer.mozilla.org/docs/Web/API/GeolocationPosition)
   - [`GeolocationCoordinates` interface](https://developer.mozilla.org/docs/Web/API/GeolocationCoordinates)
 
-## Tools
-
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [Can I Use](https://caniuse.com/)
-- [HTML Validator](https://validator.w3.org/)
-- [CSS Validator](http://www.css-validator.org/)
-- [20 Best Emmet Tips to Help You Code HTML/CSS Crazy Fast](https://beebom.com/best-emmet-tips-to-code-htmlcss-fast/)
